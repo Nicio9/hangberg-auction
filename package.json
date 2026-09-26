@@ -1,0 +1,12 @@
+{
+  "name": "hangberg-auction",
+  "version": "1.0.0",
+  "description": "Online auction for the Hangberg Educational Trust dinner dance (proxy bidding, email confirmation, admin panel).",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "license": "UNLICENSED"
+}

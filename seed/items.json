@@ -1,0 +1,179 @@
+[
+ {
+  "lot_no": 1,
+  "title": "Platter and tapas ceramics by Toinette Lindley, TLC Ceramics",
+  "description": "Platter and tapas dish made by well-known ceramicist, Toinette Lindley. Intricately carved and painted serving platter and tapas bowl featuring birds and botanical illustrations, totally unique.",
+  "donor": "TLC Ceramics (Toinette Lindley)",
+  "value_note": "Valued at R1 450",
+  "start_bid": 500,
+  "increment": 100,
+  "mode": "live",
+  "images": [
+   "lot-01.jpg",
+   "lot-01-2.jpg"
+  ],
+  "link": "https://tlc-ceramics.co.za/",
+  "logo": "logo-01.png"
+ },
+ {
+  "lot_no": 2,
+  "title": "Two nights for two at a Living Journey Boutique Hotel",
+  "description": "A two night stay in a luxurious room for two people at one of the branches including breakfast and a complimentary bottle of wine on arrival. T&Cs apply.",
+  "donor": "The Living Journey Collection",
+  "value_note": "Valued at R10 000",
+  "start_bid": 2500,
+  "increment": 500,
+  "mode": "live",
+  "images": [
+   "lot-02.jpg",
+   "lot-02-2.jpg",
+   "lot-02-3.jpg",
+   "lot-02-4.jpg",
+   "lot-02-5.jpg",
+   "lot-02-6.jpg",
+   "lot-02-7.jpg",
+   "lot-02-8.jpg"
+  ],
+  "link": "https://thelivingjourneycollection.co.za/river-manor/",
+  "logo": "logo-02.png"
+ },
+ {
+  "lot_no": 3,
+  "title": "Unisex leather weekend bag by Mattat",
+  "description": "Unisex leather weekend/cabin bag: Crafted for the sophisticated traveller, the Mattat Leather Cabin Bag is where durability meets timeless style. Perfect for weekend escapes or quick getaways, this is the travel essential you’ll treasure for years.",
+  "donor": "Mattat",
+  "value_note": "Valued at R6 500",
+  "start_bid": 1000,
+  "increment": 250,
+  "mode": "live",
+  "images": [
+   "lot-03.jpg"
+  ],
+  "link": "https://www.instagram.com/mattatleather/",
+  "logo": "logo-03.png"
+ },
+ {
+  "lot_no": 4,
+  "title": "Bespoke necklace hand made by Gerika Langenhoven, Amulet",
+  "description": "Bespoke necklace hand made by local jeweller, Gerika Langenhoven. Silver with a silver heart and silver-grey pearls.",
+  "donor": "Amulet Jewellery",
+  "value_note": "Valued at R4 750",
+  "start_bid": 1000,
+  "increment": 250,
+  "mode": "live",
+  "images": [
+   "lot-04.jpg",
+   "lot-04-2.jpg"
+  ],
+  "link": "https://www.instagram.com/amuletcapetown/",
+  "logo": "logo-04.png"
+ },
+ {
+  "lot_no": 5,
+  "title": "Seinspur painting by Evi Elsner",
+  "description": "Unframed, mixed media, 800 × 800 mm.\n\nEvi Elsner, known artistically as SeinSpur, immigrated from Germany to South Africa in 2002. Alongside her German husband, she spent over two decades designing, renovating, and building distinctive homes, many of which were featured in prestigious design and lifestyle publications. With a background in architectural and interior design, Evi curated countless spaces — yet always longed for the kind of art she couldn’t quite find: deeply textural, minimal, and resonant. At the end of 2024, upon retiring from their business, Evi finally found the freedom to pursue her artistic calling. Her works are the tactile expressions of that journey - textured, monochromatic, and meditative. Her chosen name, SeinSpur, is a poetic reflection of her philosophy: the trace of being — a visual and emotional imprint of presence, stillness, and introspection. Her work marks the beginning of a long-awaited chapter, where Evi translates years of curated beauty into art born from her own hands.",
+  "donor": "Evi Elsner (Seinspur)",
+  "value_note": "Valued at R18 000",
+  "start_bid": 5000,
+  "increment": 500,
+  "mode": "online",
+  "images": [
+   "lot-05.jpg"
+  ],
+  "link": "https://www.instagram.com/seinspur/",
+  "logo": "logo-05-qr.png"
+ },
+ {
+  "lot_no": 6,
+  "title": "Two Rhodesian Teak side tables, 55x35x34cm",
+  "description": "Two Rhodesian Teak side tables: glass, aluminium and Rhodesian Teak (55x35x34cm WxDXH). Reserve of R2,500.",
+  "donor": "Brian Glaser, [bg] Design in Wood",
+  "value_note": "Valued at R5 000",
+  "start_bid": 2500,
+  "increment": 250,
+  "mode": "online",
+  "images": [
+   "lot-06.jpg"
+  ],
+  "link": "https://www.instagram.com/bgdesigninwood/",
+  "logo": "logo-06.png"
+ },
+ {
+  "lot_no": 7,
+  "title": "2 x Ikat Jade linen cushions by Lula Fabrics",
+  "description": "2 x Ikat Jade linen cushions: Printed in Cape Town on linen, the pattern is visible on both sides of the cushion with an invisible zip and 60x60cm feather inners.",
+  "donor": "Lula Fabrics",
+  "value_note": "Valued at R3 000",
+  "start_bid": 1000,
+  "increment": 250,
+  "mode": "online",
+  "images": [
+   "lot-07.jpg"
+  ],
+  "link": "https://lulafabrics.com/",
+  "logo": "logo-07.png"
+ },
+ {
+  "lot_no": 8,
+  "title": "2 x Bath and Hand towel sets by Mungo",
+  "description": "1 x Bath&Hand Atlantic Itawuli set and 1 x Bath&Hand Pine Green set: These towel sets are a vibrant, multi-purpose flat-weave, 100% cotton made in SA, making it light-weight, compact and highly absorbent.",
+  "donor": "Mungo",
+  "value_note": "Valued at R3 000",
+  "start_bid": 1000,
+  "increment": 250,
+  "mode": "online",
+  "images": [
+   "lot-08.jpg",
+   "lot-08-2.jpg"
+  ],
+  "link": "https://mungo.co.za/",
+  "logo": "logo-08.png"
+ },
+ {
+  "lot_no": 9,
+  "title": "One night for two people at Cheverells Farm Cottages, Elgin",
+  "description": "One night mid-week stay for two people at Cheverells Farm Cottages. A tranquil apple and pear farm located at 55 Highlands Road in the Elgin Valley, Grabouw. T&Cs apply.",
+  "donor": "Cheverells Farm",
+  "value_note": "Valued at R2 175",
+  "start_bid": 1000,
+  "increment": 250,
+  "mode": "online",
+  "images": [
+   "lot-09.jpg",
+   "lot-09-2.jpg",
+   "lot-09-3.jpg"
+  ],
+  "link": "https://cheverellsfarm.com/",
+  "logo": "logo-09.png"
+ },
+ {
+  "lot_no": 10,
+  "title": "Eight napkins and one tea towel by Keni-Ken",
+  "description": "Two sets of 4 napkins in white and grey and one tea towel on 100% thick premium quality cotton, hand-screen printed by Cape Town artist Kendal Thompson.",
+  "donor": "Keni-Ken",
+  "value_note": "Valued at R1 350",
+  "start_bid": 500,
+  "increment": 100,
+  "mode": "online",
+  "images": [
+   "lot-10.jpg"
+  ],
+  "link": "http://www.keniken.co.za/",
+  "logo": "logo-10.png"
+ },
+ {
+  "lot_no": 11,
+  "title": "SloJo hamper filled with coffee and treats",
+  "description": "Stunning coffee and treats hamper, includes Jacobs Kronung Coffee, Pickwick envelope teas, flavoured latte syrups, hot chocolate powder, rusks and biscuits.",
+  "donor": "SloJo",
+  "value_note": "Valued at R1 150",
+  "start_bid": 500,
+  "increment": 100,
+  "mode": "online",
+  "images": [
+   "lot-11.jpg"
+  ],
+  "link": "https://slojo.co.za/",
+  "logo": "logo-11.png"
+ }
+]

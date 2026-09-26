@@ -1,0 +1,15 @@
+# Live data: SQLite database + uploaded/seeded photos. Never commit - holds
+# bidder names, emails, cellphones, password hashes and bid amounts.
+data/
+
+# Local env
+.env
+.env.*
+
+node_modules/
+npm-debug.log*
+
+# Backups / OS cruft
+*.zip
+.DS_Store
+Thumbs.db
